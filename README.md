@@ -9,9 +9,6 @@ Selain mengikuti kelas online di dicoding saya juga mengikuti pelatihan online d
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/siti-salbyah-26883b194/).
 
-<p align="left">
-<a href="https://github.com/salby966">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=salby966&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salby966&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<img width="782px" src="https://raw.githubusercontent.com/bilardi/bilardi/master/header.png" />
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=salby966&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salby966&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
