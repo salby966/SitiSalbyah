@@ -1,4 +1,4 @@
-<img width="782px" src="https://raw.githubusercontent.com/bilardi/bilardi/master/header.png" />
+<img width="910px" src="https://raw.githubusercontent.com/bilardi/bilardi/master/header.png" />
 
 Perkenalkan nama saya **Siti Salbyah**.
 
